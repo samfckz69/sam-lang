@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="sam-lang",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
-    description="Sam Programming Language - A friendly Python wrapper",
+    author="@EthicalGod",
+    author_email="admin@ethicalgod.tech",
+    description="Sam Programming Language - A friendly language wrapper",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/sam-lang",
+    url="https://github.com/samfckz69/sam-lang",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
