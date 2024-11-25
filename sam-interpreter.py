@@ -86,6 +86,4 @@ class SamInterpreter:
 
     def show_help(self) -> None:
         """Show help information"""
-        # [Previous help logic]
-        # Add the help display logic we had before
         pass
